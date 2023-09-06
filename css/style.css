@@ -1,0 +1,46 @@
+/* 2 section*/
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.title2{
+    font-family: Monsterrat;
+    font-weight: 800;
+    font-size: 30px;
+    color: #304140;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ways{
+    padding-top: 155px;
+}
+
+.ways__title2{
+    margin-bottom: 98px;
+}
+.ways__subtitle{
+    font-size: 24px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+.ways__box{
+    display: flex;
+    margin-bottom: 90px;
+}
+.ways__texts{
+    background: #FFF6F1;
+    padding: 110px 75px;
+}
+.ways__btn{
+    color: chocolate;
+    font-weight: 800;
+    font-size: 16px;
+    font-family: Montserrat;
+    text-decoration: none;
+    padding: 17px 49px;
+    border: 1px solid #FF7E36;
+    border-radius: 78px;
+}
+.ways__button{
+    text-align: center;
+}
